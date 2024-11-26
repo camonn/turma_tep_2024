@@ -19,5 +19,4 @@ Período: 1º Período
 | Aluno 2        | 654321    | Equipe B |
 | Pedro Neto Amâncio | 2024211510214 | Equipe Kenji |
 | Rodrigo Santos Costa        | 2024211510226    | Equipe Kenji |
-
 <!-- Adicione mais alunos aqui -->
