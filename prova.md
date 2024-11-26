@@ -3,10 +3,13 @@
     <img src="image.png" alt="uniesp" width="100">
 </div>
 
-**Nome do professor:** Wuldson Franco Fernades da Silva 
-| **Curso:** Sistemas Para Internet
-| **Turno:** Noturno
-| **Período:** 1º Período
+```
+Nome do professor: Wuldson Franco Fernades da Silva
+Curso: Sistemas Para Internet
+Turno: Noturno
+Período: 1º Período
+```
+
 
 ## Alunos
 
