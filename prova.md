@@ -17,4 +17,6 @@ Período: 1º Período
 |----------------|-----------|----------|
 | Aluno 1        | 123456    | Equipe A |
 | Aluno 2        | 654321    | Equipe B |
+| Aluno 2        | 654321    | Equipe B |
+| Rodrigo Santos Costa        | 2024211510226    | Equipe Kenji |
 <!-- Adicione mais alunos aqui -->
