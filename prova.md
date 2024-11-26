@@ -1,14 +1,14 @@
 # Dados do Curso
-
-**Nome do professor:** Professor Exemplo  
-**Curso:** Curso de Exemplo  
-**Turno:** Manhã  
+![uniesp](image.png)
+**Nome do professor:** Wuldson Franco Fernades da Silva 
+**Curso:** Sistemas Para Internet
+**Turno:** Noturno
 **Período:** 1º Período
 
-## Tabela de Alunos
+## Alunos
 
 | Nome do Aluno      | Matrícula |
 |--------------------|-----------|
-| João Silva         | 123456    |
-| Maria Oliveira     | 654321    |
+| Aluno 1            | 123456    |
+| Aluno 2            | 654321    |
 <!-- Adicione mais alunos aqui -->
