@@ -15,7 +15,7 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Aluno 1  Davi Figueiredo Gonçalves Vilar | 2024211510268 | Equipe Kenji |
+| Aluno Davi Figueiredo Gonçalves Vilar | 2024211510268 | Equipe Kenji |
 | Aluno 2        | 654321    | Equipe B |
 | Pedro Neto Amâncio | 2024211510214 | Equipe Kenji |
 | Rodrigo Santos Costa        | 2024211510226    | Equipe Kenji |
